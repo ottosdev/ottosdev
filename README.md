@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love dogs, animes, watch movies and series and one day I will parachute. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OttoSouza&layout=compact&hide_border=true)](https://github.com/OttoSouza/github-readme-stats)
-<img align="left" alt="Otto's stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=OttoSouza&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
 
@@ -34,5 +33,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Postgres" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
+<img align="left" alt="Chakra" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstackshare.io%2Fstackups%2Fchakra-ui-vs-ionicons&psig=AOvVaw3Tz8aIuGin2A5g60qctfhH&ust=1650077479508000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNj04eKHlfcCFQAAAAAdAAAAABAD" />
 <br />
