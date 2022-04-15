@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🌱 I'm studying ReactJs, NextJs, React Native, Node, Typescript, Docker and other conceps. 
 - ⚡ Fun fact: I love dogs, animes, watch movies and series and one day I will parachute. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OttoSouza&layout=compact&hide_border=true)](https://github.com/OttoSouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ottosdev&layout=compact&hide_border=true)](https://github.com/ottosdev/github-readme-stats)
 
 ### Languages and Tools:
 
